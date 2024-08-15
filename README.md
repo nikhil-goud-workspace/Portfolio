@@ -3,8 +3,6 @@
   <a href="https://soumyajit.vercel.app/" target="_blank">Nikhil Goud</a>
 </h2>
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
 **📱 Fully Responsive**
 
 ## Getting Started
