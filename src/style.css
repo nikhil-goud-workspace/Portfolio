@@ -33,7 +33,7 @@ button:focus {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #0c0513;
+  background-color: rgb(26, 160, 214);
   background-image: url(./Assets/pre.svg);
   background-repeat: no-repeat;
   background-position: center;
@@ -440,7 +440,7 @@ button:focus {
 }
 
 .blockquote-footer {
-  color: rgba(35, 121, 158, 0.525) !important;
+  color: rgba(240, 326, 372, .925) !important;
 }
 /* --------- */
 /* Projects */
@@ -561,7 +561,7 @@ button:focus {
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  box-shadow: 4px 5px 4px 3px rgba(212, 170, 250, 0.137) !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
