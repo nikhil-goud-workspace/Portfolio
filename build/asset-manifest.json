@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e74a2d88.css",
+    "main.css": "/static/css/main.23402213.css",
     "main.js": "/static/js/main.8181b7b4.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/Nikhil Goud - SDE.pdf": "/static/media/Nikhil Goud - SDE.da55758c194d8bf58367.pdf",
@@ -13,12 +13,12 @@
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.e74a2d88.css.map": "/static/css/main.e74a2d88.css.map",
+    "main.23402213.css.map": "/static/css/main.23402213.css.map",
     "main.8181b7b4.js.map": "/static/js/main.8181b7b4.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e74a2d88.css",
+    "static/css/main.23402213.css",
     "static/js/main.8181b7b4.js"
   ]
 }
