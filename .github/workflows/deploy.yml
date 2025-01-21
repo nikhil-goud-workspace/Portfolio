@@ -18,22 +18,22 @@ jobs:
       with:
         node-version: '16'  # Specify your required Node.js version
 
-    - name: Install Dependencies
-      run: |
-        npm install
+    # - name: Install Dependencies
+    #   run: |
+    #     npm install
     
-    - name: Fix Dependencies
-      run: |
-        npm audit fix --force  # Fix vulnerabilities if possible
+    # - name: Fix Dependencies
+    #   run: |
+    #     npm audit fix --force  # Fix vulnerabilities if possible
 
-    - name: Fix Deprecated Warnings (Optional, based on your needs)
-      run: |
-        npm install --save-dev @babel/plugin-proposal-private-property-in-object
-        # Add other necessary fixes for deprecated packages here
+    # - name: Fix Deprecated Warnings (Optional, based on your needs)
+    #   run: |
+    #     npm install --save-dev @babel/plugin-proposal-private-property-in-object
+    #     # Add other necessary fixes for deprecated packages here
 
-    - name: Build the Project
-      run: |
-        npm run build
+    # - name: Build the Project
+    #   run: |
+    #     npm run build
 
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v2
