@@ -21,7 +21,10 @@ jobs:
     - name: Install Dependencies
       run: |
         npm install
-        npm audit fix  # Fix vulnerabilities if possible
+    
+    - name: Fix Dependencies
+      run: |
+        npm audit fix --force  # Fix vulnerabilities if possible
 
     - name: Fix Deprecated Warnings (Optional, based on your needs)
       run: |
