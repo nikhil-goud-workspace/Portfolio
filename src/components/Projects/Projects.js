@@ -37,13 +37,23 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
               isBlog={false}
               title="Snackbar Application"
               description="Web application development with features where users to place/view orders & access order history."
               ghLink="https://github.com/nikhilspyder/snackbar"             
+            />
+          </Col> */}
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Blog-and-Recommendations-Platform"
+              description="A full-stack web application integrating AI-powered recommendations, real-time weather updates, and a dynamic blogging platform for personalized user experiences."
+              ghLink="https://github.com/nikhilspyder/Blog-and-Recommendations-Platform"             
             />
           </Col>
         </Row>
