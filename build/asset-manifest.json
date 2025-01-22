@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e74a2d88.css",
-    "main.js": "/static/js/main.19e4fc34.js",
+    "main.js": "/static/js/main.7afa36ad.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/logo.png": "/static/media/logo.14d140527fd0b7443df3.png",
     "static/media/chatify.png": "/static/media/chatify.1b585492490c8c1cace9.png",
@@ -9,16 +9,16 @@
     "static/media/home-main.jpg": "/static/media/home-main.a0bde8a71a31cd40e2d6.jpg",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Nikhil Goud - SDE.pdf": "/static/media/Nikhil Goud - SDE.43cd08cf2822c4c1cdfa.pdf",
+    "static/media/Nikhil Goud - SDE.pdf": "/static/media/Nikhil Goud - SDE.498487b752f074122c77.pdf",
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.e74a2d88.css.map": "/static/css/main.e74a2d88.css.map",
-    "main.19e4fc34.js.map": "/static/js/main.19e4fc34.js.map",
+    "main.7afa36ad.js.map": "/static/js/main.7afa36ad.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e74a2d88.css",
-    "static/js/main.19e4fc34.js"
+    "static/js/main.7afa36ad.js"
   ]
 }
